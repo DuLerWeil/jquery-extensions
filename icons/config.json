@@ -2,7 +2,8 @@
   "workspace": "./",
 
   "input": {
-    "cssSource": "icon-all.css",
+    "cssSource": ["icon-berlin.css", "icon-cologne.css", "icon-dortmund.css", "icon-hamburg.css",
+      "icon-metro.css", "icon-munich.css", "icon-standard.css", "icon-woocons.css"],
     "format": "png"
   },
   "output": {
@@ -10,7 +11,7 @@
     "imageDist": "images/",
     "maxSingleSize": 0,
     "margin": 0,
-    "prefix": "sprite_",
+    "prefix": "sprite-",
     "format": "png",
     "combine": false,
     "combineCSSRule": false,

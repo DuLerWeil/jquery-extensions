@@ -1,5 +1,5 @@
 .icon-standard-accept {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -16px 0 no-repeat;}
-.icon-standard-add {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -80px -320px no-repeat;}
+.icon-standard-add {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -16px -384px no-repeat;}
 .icon-standard-anchor {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) 0 -16px no-repeat;}
 .icon-standard-application-add {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -16px -16px no-repeat;}
 .icon-standard-application-cascade {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -32px 0 no-repeat;}
@@ -423,7 +423,7 @@
 .icon-standard-folder-add {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -32px -320px no-repeat;}
 .icon-standard-folder-bell {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -48px -320px no-repeat;}
 .icon-standard-folder-brick {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -64px -320px no-repeat;}
-.icon-standard-folder-bug {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) 0 0 no-repeat;}
+.icon-standard-folder-bug {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -80px -320px no-repeat;}
 .icon-standard-folder-camera {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -96px -320px no-repeat;}
 .icon-standard-folder-database {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -112px -320px no-repeat;}
 .icon-standard-folder-delete {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -128px -320px no-repeat;}
@@ -599,7 +599,7 @@
 .icon-standard-note-go {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -384px -352px no-repeat;}
 .icon-standard-note {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -384px -368px no-repeat;}
 .icon-standard-overlays {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) 0 -384px no-repeat;}
-.icon-standard-package-add {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -16px -384px no-repeat;}
+.icon-standard-package-add {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) 0 0 no-repeat;}
 .icon-standard-package-delete {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -32px -384px no-repeat;}
 .icon-standard-package-go {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -48px -384px no-repeat;}
 .icon-standard-package-green {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -64px -384px no-repeat;}
@@ -998,11 +998,11 @@
 .icon-standard-zoom-in {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -80px -496px no-repeat;}
 .icon-standard-zoom-out {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -96px -496px no-repeat;}
 .icon-standard-zoom {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -112px -496px no-repeat;}
-.icon-standard-hmenu-asc {height: 16px; width: 16px; background-image: url('icon-standard/16x16/hmenu-asc.gif'); background-repeat: no-repeat;}
-.icon-standard-hmenu-desc {height: 16px; width: 16px; background-image: url('icon-standard/16x16/hmenu-desc.gif'); background-repeat: no-repeat;}
-.icon-standard-up {height: 16px; width: 16px; background-image: url('icon-standard/16x16/hmenu-up.png'); background-repeat: no-repeat;}
-.icon-standard-down {height: 16px; width: 16px; background-image: url('icon-standard/16x16/hmenu-down.png'); background-repeat: no-repeat;}
-.icon-standard-folder-open {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -128px -496px no-repeat;}
-.icon-standard-folder-close {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -144px -496px no-repeat;}
-.icon-standard-tab-close-left {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -160px -496px no-repeat;}
-.icon-standard-tab-close-right {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -176px -496px no-repeat;}
+.icon-standard-hmenu-asc {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -128px -496px no-repeat;}
+.icon-standard-hmenu-desc {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -144px -496px no-repeat;}
+.icon-standard-up {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -160px -496px no-repeat;}
+.icon-standard-down {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -176px -496px no-repeat;}
+.icon-standard-folder-open {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -192px -496px no-repeat;}
+.icon-standard-folder-close {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -208px -496px no-repeat;}
+.icon-standard-tab-close-left {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -224px -496px no-repeat;}
+.icon-standard-tab-close-right {height: 16px; width: 16px; background: url(images/sprite-icon-standard.png) -240px -496px no-repeat;}

@@ -11,10 +11,10 @@
  *   panel
  * 
  * jQuery EasyUI portal Plugin 1.0 beta
- * jQuery EasyUI portal ²å¼ş
+ * jQuery EasyUI portal æ’ä»¶
  * jquery.portal.js
- * ¶ş´Î¿ª·¢ Á÷ÔÆ
- * ×î½ü¸üĞÂ£º2014-06-19
+ * äºŒæ¬¡å¼€å‘ æµäº‘
+ * æœ€è¿‘æ›´æ–°ï¼š2014-06-19
  *
  * Copyright (c) 2013-2014 ChenJianwei personal All rights reserved.
  * http://www.chenjianwei.org

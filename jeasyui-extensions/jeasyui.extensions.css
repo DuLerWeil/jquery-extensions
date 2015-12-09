@@ -127,9 +127,9 @@ ul.icon-selector-ul { padding: 10px; margin: 0; }
 ul.icon-selector-ul li { list-style-type: none; float: left; cursor: pointer; margin: 2px; width: 20px; height: 20px; }
 ul.icon-selector-ul li { border-width: 1px; border-color: #fff; border-style: solid; }
 ul.icon-selector-ul li:hover { border-color: Red; }
-ul.icon-selector-ul li span { line-height: 16px; padding-left: 16px; display: inline-block; }
+ul.icon-selector-ul li span { line-height: 16px; display: inline-block; }
 ul.icon-selector-ul-32 li { width: 36px; height: 36px; }
-ul.icon-selector-ul-32 li span { line-height: 32px; padding-left: 32px; }
+ul.icon-selector-ul-32 li span { line-height: 32px; }
 ul.icon-selector-ul li.selected { border-color: Red; background-color: rgb(221, 221, 221); }
 
 /*jquery.toolbar.js*/

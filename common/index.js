@@ -328,7 +328,7 @@
     };
 
     window.mainpage.mainTabs.tabDefaultOption = {
-        title: "新建选项卡", href: "", iniframe: true, closable: true, refreshable: true, iconCls: "icon-standard-application-form", repeatable: true, selected: true
+        title: "新建选项卡", href: "", iniframe: false, closable: true, refreshable: true, iconCls: "icon-standard-application-form", repeatable: true, selected: true
     };
     window.mainpage.mainTabs.parseCreateTabArgs = function (args) {
         var ret = {};
